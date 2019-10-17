@@ -1,0 +1,31 @@
+{
+  "name": "react-three-fiber-untitled-game",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.10.2",
+    "react-dom": "16.10.2",
+    "react-scripts": "3.2.0",
+    "react-three-fiber": "3.0.2",
+    "styled-components": "4.4.0",
+    "three": "0.109.0",
+    "zustand": "2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
